@@ -14,7 +14,7 @@ Note the mouse tracking could be used on any menu (buymenu for example). Futherm
 3. Adjust your keybindings and sensetivity in ```exec AutoLineup/main```
 4. Launch the game and ```exec AutoLineup/main```
 5. Press and hold ```p``` or the key you've configured. Then hover over the lineup you want to select.
-6. A sound plays and the radialradio menu closes. Wait till you have eqiuped the smoke if you haven't already.
+6. A sound plays and the radialradio menu closes. Wait till you have equiped the smoke if you haven't already.
 7. Scroll up with your mousewheel till you hear another sound.
 8. You've finished.
 

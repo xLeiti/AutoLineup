@@ -17,4 +17,6 @@ Note the mouse tracking could be used on any menu (buymenu for example). Futherm
 6. A sound plays and the radialradio menu closes. Wait till you have eqiuped the smoke if you haven't already.
 7. Scroll up with your mousewheel till you hear another sound.
 8. You've finished.
+
+   
 X. Let go of ```p``` during any step if you want to abort.

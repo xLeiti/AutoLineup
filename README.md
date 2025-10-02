@@ -7,7 +7,7 @@ All the viewangle snapping + jumpthrow happens afterwards by simply scrolling th
 Note the mouse tracking could be used on any menu (buymenu for example). Futhermore it could be used to move your mouse to lineup positions without insta snapping.
 
 
-#How to install and use:
+# How to install and use:
 
 1. Place ´´´platform_english.txt´´´ into ´´´game\csgo\resource´´´´.
 2. Place the ´´´AutoLineup´´´-folder into ´´´game\csgo\cfg´´´.

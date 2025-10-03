@@ -1,8 +1,8 @@
 # AutoLineup
 A small experimental AutoLineup menu
 
-This radialradio menu tracks your mouse position and auto selects the lineup when you hover over it (similar to ```cl_inventory_radial_immediate_select 1``` in the weaponwheel).
-All the viewangle snapping + jumpthrow happens afterwards by simply scrolling the mousewheel.
+This radialradio menu tracks your mouse position and auto selects and snaps to the lineup when you hover over it (similar to ```cl_inventory_radial_immediate_select 1``` in the weaponwheel).
+Additionally the correct jumpthrow is performed afterwards by simply scrolling the mousewheel.
 
 Note the mouse tracking could be used on any menu (buymenu for example). Futhermore it could be used to move your mouse to lineup positions without insta snapping.
 
@@ -14,7 +14,7 @@ Note the mouse tracking could be used on any menu (buymenu for example). Futherm
 3. Adjust your keybindings and sensetivity in ```exec AutoLineup/main```
 4. Launch the game and ```exec AutoLineup/main```
 5. Press and hold ```p``` or the key you've configured. Then hover over the lineup you want to select.
-6. A sound plays and the radialradio menu closes. Wait till you have equiped the smoke if you haven't already.
+6. The selection and snapping progress is completed when a sound is played. Wait till you have equiped the smoke if you haven't already.
 7. Scroll up with your mousewheel till you hear another sound.
 8. You've finished.
 

@@ -13,10 +13,12 @@ Note the mouse tracking could be used on any menu (buymenu for example). Further
 2. Place the ```AutoLineup```-folder into ```game\csgo\cfg```.
 3. Adjust your keybindings and sensitivity in ```exec AutoLineup/main```
 4. Launch the game and ```exec AutoLineup/main```
-5. Press and hold ```p``` or the key you've configured. Then hover over the lineup you want to select.
-6. The selection and snapping progress is completed when a sound is played. Wait till you have equipped  the smoke if you haven't already.
-7. Scroll up with your mousewheel till you hear another sound.
-8. You've finished.
+5. Press and hold ```o``` or the key you've configured. Hover over the settings you want to change/select. Release ```o``` when you're done.
+6. Press and hold ```p``` or the key you've configured. Then hover over the lineup you want to select.
+7. The selection and snapping progress is completed when a sound is played. Wait till you have equipped  the smoke if you haven't already.
+8. Scroll up with your mousewheel till you hear another sound.
+9. If you do an execute, press your mousewheel-button to cycle between the different lineups.
+10. You've finished.
 
    
 X. Let go of ```p``` during any step if you want to abort.

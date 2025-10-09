@@ -6,24 +6,55 @@
 
 		
 	"Ignore_Broadcast_Messages"			"[AutoLineup] by Leiti"
-	"Ignore_Broadcast_Team_Messages"		">	Keep \"p	\" pressed and hover over the smoke you want to throw. After the sound scroll with your mousewheel."
+	"Ignore_Broadcast_Team_Messages"		">	Keep \"p	\" pressed and hover over the smoke you want to throw. After the sound scroll with your mousewheel to perform the correct throw. For executes press the mousewheel to loop through the lineups"
 	"Accept_All_Messages"			">	Finished."
 
-	"CFG_Mirage_T1"                    "[T] \n INSTANT ☁ smoke \n Mirage \n SPAWN 1 \n WJT \n  \n  \n  \n "
-	"CFG_Mirage_T2"                    "[T] \n INSTANT ☁ smoke \n Mirage \n SPAWN 2 \n WJT \n  \n  \n  \n "
-	"CFG_Mirage_T3"                    "[T] \n INSTANT ☁ smoke \n Mirage \n SPAWN 3 \n WJT \n  \n  \n  \n "
-	"CFG_Mirage_T4"                    "[T] \n INSTANT ☁ smoke \n Mirage \n SPAWN 4 \n WJT \n  \n  \n  \n "
-	"CFG_Mirage_T5"                    "[T] \n INSTANT ☁ smoke \n Mirage \n SPAWN 5 \n WJT \n  \n  \n  \n "
 
-	"CFG_MAP_Anubis"             	"ANUBIS  	\n  \n  \n  \n  \n "
-	"CFG_MAP_Inferno"             	"INFERNO  	\n  \n  \n  \n  \n "
-	"CFG_MAP_Mirage"             	"MIRAGE  	\n  \n  \n  \n  \n "
-	"CFG_MAP_Vertigo"             	"VERTIGO  	\n  \n  \n  \n  \n "
-	"CFG_MAP_Dust2"             	"DUST2  	\n  \n  \n  \n  \n "
-	"CFG_MAP_Nuke"             	"NUKE  		\n  \n  \n  \n  \n "
-	"CFG_MAP_Ancient"             	"ANCIENT  	\n  \n  \n  \n  \n "
-	"CFG_MAP_Thera"             	"THERA  	\n  \n  \n  \n  \n "
-	"CFG_MAP_Overpass"             	"OVERPASS  	\n  \n  \n  \n  \n "
-	"CFG_MAP_Train"             	"TRAIN  	\n  \n  \n  \n  \n "
+
+	
+
+	"CFG_Mirage_T1"                    "[T] \n INSTANT ☁ smoke \n ᶠᵒʳ WINDOW       \n ᶠʳᵒᵐ SPAWN 1        \n WJT \n  \n  \n  \n  \n "
+	"CFG_Mirage_T2"                    "[T] \n INSTANT ☁ smoke \n ᶠᵒʳ WINDOW       \n ᶠʳᵒᵐ SPAWN 2        \n WJT \n  \n  \n  \n  \n "
+	"CFG_Mirage_T3"                    "[T] \n INSTANT ☁ smoke \n ᶠᵒʳ WINDOW       \n ᶠʳᵒᵐ SPAWN 3        \n WJT \n  \n  \n  \n  \n "
+	"CFG_Mirage_T4"                    "[T] \n INSTANT ☁ smoke \n ᶠᵒʳ WINDOW       \n ᶠʳᵒᵐ SPAWN 4        \n WJT \n  \n  \n  \n  \n "
+	"CFG_Mirage_T5"                    "[T] \n INSTANT ☁ smoke \n ᶠᵒʳ WINDOW       \n ᶠʳᵒᵐ SPAWN 5        \n WJT \n  \n  \n  \n  \n "
+	"CFG_Mirage_A_Execute"             "[T] \n 🅰️ EXECUTE ☁☁☁ + ☀ \n ᶠᵒʳ STAIRS→ticket→jungle→entry      \n ▲ JUNGLE ▲ ˢᶜʳᵒˡˡ ▼ TICKET ▼ \n ᶠʳᵒᵐ RAMP CORNER        \n JT \n  \n  \n  \n "
+	"CFG_Mirage_A_Jungle"              "[T] \n 🅰️ EXECUTE ☁ + ☀\n ᶠᵒʳ JUNGLE→entry       \n ▼ FULL EXECUTE ▼ \n ᶠʳᵒᵐ RAMP CORNER        \n JT \n  \n  \n  \n "
+	"CFG_Mirage_A_Ticket"              "[T] \n 🅰️ EXECUTE ☁ + ☀ \n ᶠᵒʳ TICKET→entry       \n ▲ FULL EXECUTE ▲ \n ᶠʳᵒᵐ RAMP CORNER        \n JT \n   \n  \n  \n "
+	
+	"CFG_Inferno_CT1"                  "[CT] \n INSTANT ☁ smoke \n ᶠᵒʳ FaZe MID       \n ᶠʳᵒᵐ SPAWN 1        \n JT  \n  \n  \n  \n  \n "
+	"CFG_Inferno_CT2"                  "[CT] \n INSTANT ☁ smoke \n ᶠᵒʳ FaZe MID       \n ᶠʳᵒᵐ SPAWN 2        \n WJT  \n  \n  \n  \n  \n "
+	"CFG_Inferno_CT3"                  "[CT] \n INSTANT ☁ smoke \n ᶠᵒʳ FaZe MID       \n ᶠʳᵒᵐ SPAWN 3        \n WJT  \n  \n  \n  \n  \n "
+	"CFG_Inferno_CT4"                  "[CT] \n INSTANT ☁ smoke \n ᶠᵒʳ FaZe MID       \n ᶠʳᵒᵐ SPAWN 4        \n JT  \n  \n  \n  \n  \n "
+	"CFG_Inferno_CT5"                  "[CT] \n INSTANT ☁ smoke \n ᶠᵒʳ FaZe MID       \n ᶠʳᵒᵐ SPAWN 5        \n JT  \n  \n  \n  \n  \n "
+	"CFG_Inferno_CT6"                  "[CT] \n INSTANT ☁ smoke \n ᶠᵒʳ FaZe MID       \n ᶠʳᵒᵐ SPAWN 6        \n JT  \n  \n  \n  \n  \n "
+	"CFG_Inferno_B_Execute"            "[T] \n 🅱️ EXECUTE ☁☁ + ♨ + ☀ \n ᶠᵒʳ BOOST→coffin→newbox→entry      \n ▲ BOOST ▲ ˢᶜʳᵒˡˡ ▼ COFFIN ▼ \n ᶠʳᵒᵐ NO-PARKING CORNER        \n JT \n  \n  \n  \n "
+	"CFG_Inferno_B_Boost"              "[T] \n 🅱️ EXECUTE ☁ + ♨ + ☀ \n ᶠᵒʳ BOOST→newbox→entry      \n ▼ FULL EXECUTE ▼ \n ᶠʳᵒᵐ NO-PARKING CORNER        \n JT \n  \n  \n  \n "
+	"CFG_Inferno_B_Coffin"             "[T] \n 🅱️ EXECUTE ☁ + ♨ + ☀ \n ᶠᵒʳ COFFIN→newbox→entry      \n ▲ FULL EXECUTE ▲ \n ᶠʳᵒᵐ NO-PARKING CORNER        \n JT \n   \n  \n  \n "
+	
+	"CFG_Premier_Mode"             	"▶️ AutoLineup ◀️ \n PREMIER MODE \n  \n Toggle to \n FACEIT MODE \n ⚠ THIS WILL LAG ⚠ \n  \n  \n  \n "
+	"CFG_Faceit_Mode"             	"▶️ AutoLineup ◀️ \n FACEIT MODE \n  \n Toggle to \n PREMIER MODE \n  \n  \n  \n  \n "
+
+	"CFG_MAP_Anubis"             	"ANUBIS  \n  \n  \n  \n  \n "
+	"CFG_MAP_Inferno"             	"INFERNO  \n  \n  \n  \n  \n "
+	"CFG_MAP_Mirage"             	"MIRAGE  \n  \n  \n  \n  \n "
+	"CFG_MAP_Vertigo"             	"VERTIGO  \n  \n  \n  \n  \n "
+	"CFG_MAP_Dust2"             	"DUST2  \n  \n  \n  \n  \n "
+	"CFG_MAP_Nuke"            	 "NUKE  \n  \n  \n  \n  \n "
+	"CFG_MAP_Ancient"             	"ANCIENT  \n  \n  \n  \n  \n "
+	"CFG_MAP_Thera"             	"THERA  \n  \n  \n  \n  \n "
+	"CFG_MAP_Overpass"             	"OVERPASS  \n  \n  \n  \n  \n "
+	"CFG_MAP_Train"             	"TRAIN  \n  \n  \n  \n  \n "
+
+	"CFG_MAP_Anubis_selected"             	"ANUBIS  \n  \n [currently selected] \n  \n  \n  \n "
+	"CFG_MAP_Inferno_selected"             	"INFERNO  \n  \n [currently selected] \n  \n  \n  \n "
+	"CFG_MAP_Mirage_selected"             	"MIRAGE  \n  \n [currently selected] \n  \n  \n  \n "
+	"CFG_MAP_Vertigo_selected"             	"VERTIGO  \n  \n [currently selected] \n  \n  \n  \n "
+	"CFG_MAP_Dust2_selected"             	"DUST2  \n  \n [currently selected] \n  \n  \n  \n "
+	"CFG_MAP_Nuke_selected"             	"NUKE  \n  \n [currently selected] \n  \n  \n  \n "
+	"CFG_MAP_Ancient_selected"             	"ANCIENT  \n  \n [currently selected] \n  \n  \n  \n "
+	"CFG_MAP_Thera_selected"             	"THERA  \n  \n [currently selected] \n  \n  \n  \n "
+	"CFG_MAP_Overpass_selected"             "OVERPASS  \n [currently selected] \n  \n  \n  \n  \n "
+	"CFG_MAP_Train_selected"             	"TRAIN  \n  \n [currently selected] \n  \n  \n  \n "
 
 }

@@ -1,0 +1,21 @@
+﻿"lang"
+{
+"Language" "English"
+"Tokens"
+{
+
+	"CFG_Inferno_Ct1"                    "CT \n INSTANT ☁ smoke \n Inferno \n SPAWN 1 \n FJT \n  \n  \n  \n "
+	"CFG_Inferno_Ct2"                    "CT \n INSTANT ☁ smoke \n Inferno \n SPAWN 2 \n WJT & FJT \n  \n  \n  \n "
+	"CFG_Inferno_Ct3"                    "CT \n INSTANT ☁ smoke \n Inferno \n SPAWN 3 \n FJT \n  \n  \n  \n "
+	"CFG_Inferno_Ct4"                    "CT \n INSTANT ☁ smoke \n Inferno \n SPAWN 4 \n FJT \n  \n  \n  \n "
+	"CFG_Inferno_Ct5"                    "CT \n INSTANT ☁ smoke \n Inferno \n SPAWN 5 \n FJT \n  \n  \n  \n "
+	"CFG_Inferno_Ct6"                    "CT \n INSTANT ☁ smoke \n Inferno \n SPAWN 6 \n FJT \n  \n  \n  \n "
+
+	"CFG_Mirage_T1"                    "T \n INSTANT ☁ smoke \n Mirage \n SPAWN 1 \n WJT & FJT \n  \n  \n  \n "
+	"CFG_Mirage_T2"                    "T \n INSTANT ☁ smoke \n Mirage \n SPAWN 2 \n WJT & FJT \n  \n  \n  \n "
+	"CFG_Mirage_T3"                    "T \n INSTANT ☁ smoke \n Mirage \n SPAWN 3 \n WJT & FJT \n  \n  \n  \n "
+	"CFG_Mirage_T4"                    "T \n INSTANT ☁ smoke \n Mirage \n SPAWN 4 \n WJT & FJT \n  \n  \n  \n "
+	"CFG_Mirage_T5"                    "T \n INSTANT ☁ smoke \n Mirage \n SPAWN 5 \n WJT & FJT \n  \n  \n  \n "
+
+
+}

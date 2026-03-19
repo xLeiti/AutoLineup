@@ -1,0 +1,20 @@
+/// AveYo ticker
+Test_WaitForCheckPoint frame_end
+
+/// Ignore one input
+Test_RunFrame
+
+/// Initializing some aliases 
+alias JT!; 
+alias CJ!; 
+alias ##; 
+alias showGuide; 
+alias playSelectionSound; 
+alias playThrowSound; 
+alias playFthCompletedSound;
+
+/// Initializing AutoLineup
+exec "autolineup/main.cfg"
+
+/// Starting the ticker loop
+Test_Run "ticker.vtest"

@@ -10,20 +10,35 @@ Note the mouse tracking could be used on any menu (buymenu for example). Further
 # How to install:
 
 1. Download the configuration:
+
 <img width="971" height="458" alt="image" src="https://github.com/user-attachments/assets/9810ac16-f691-4019-be02-c5f9041e61bf" />
+
 2. Unzip the file
+
 3. Go to you steam library and open CS2's properties:
+
 <img width="681" height="527" alt="image" src="https://github.com/user-attachments/assets/cf23f100-fc1d-4492-b6c9-02cd232887bd" />
+
 4. Add following snipet to your launch options ```-testscript "../../csgo/cfg/autolineup/init.aveyo"```.
+
 <img width="1204" height="557" alt="image" src="https://github.com/user-attachments/assets/38bafcf9-7039-46fa-b2c2-66ec959beb99" />
+
 5. Go to "Installed Files" and click "Browse":
+
 <img width="1626" height="417" alt="image" src="https://github.com/user-attachments/assets/4f2de625-a6e4-4a31-950d-f50ce36c03c8" />
+
 6. And Explorer opens at ```steamapps\common\Counter-Strike Global Offensive```. Head to ```steamapps\common\Counter-Strike Global Offensive\game\csgo```
+
 7. Paste the ```cfg``` and ```resource``` folder into your ```steamapps\common\Counter-Strike Global Offensive\game\csgo``` directory:
+
 <img width="1610" height="610" alt="image" src="https://github.com/user-attachments/assets/0991d908-c60b-401d-a4d8-54c52c942c5c" />
+
 8. Now head to ```steamapps\common\Counter-Strike Global Offensive\game\csgo\autolineup\main``` and open the ```main.cfg```
+
 <img width="817" height="462" alt="image" src="https://github.com/user-attachments/assets/81522f82-d50f-44d3-a021-b9116fd87301" />
+
 9. Adjust your keybinds and settings. Then save the file.
+
 10. Launch the game & have fun!
 
 # How to use:

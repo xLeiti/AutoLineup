@@ -11,7 +11,7 @@ Note the mouse tracking could be used on any menu (buymenu for example). Further
 
 1. Download the configuration:
 
-<img width="971" height="458" alt="image" src="https://github.com/user-attachments/assets/9810ac16-f691-4019-be02-c5f9041e61bf" />
+<img width="965" height="422" alt="image" src="https://github.com/user-attachments/assets/f64bf38f-c32b-4132-a080-6e938a7d9a78" />
 
 2. Unzip the file
 

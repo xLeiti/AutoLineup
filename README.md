@@ -57,6 +57,6 @@ X. Let go of ```p``` during any step if you want to abort.
 - Improved consistency and responsivness
 - Implemented AveYo-Ticker
 - Added Anubis [CT] T-Ramp Insta Smokes
-- Added Inferno Insta Mid/Ramp Smoke via Fancythrow
+- Added Inferno Insta Mid/Ramp Smokes via Fancythrow
 - Cleaned up the project
 - Now automatically using the FaceIt-Mode when on Faceit

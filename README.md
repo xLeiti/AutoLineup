@@ -60,3 +60,4 @@ X. Let go of ```p``` during any step if you want to abort.
 - Added Inferno Insta Mid/Ramp Smokes via Fancythrow
 - Cleaned up the project
 - Now automatically using the FaceIt-Mode when on Faceit
+- FaceIt-Mode: smaller lag due to optimized aliases

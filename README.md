@@ -52,3 +52,11 @@ Note the mouse tracking could be used on any menu (buymenu for example). Further
 
    
 X. Let go of ```p``` during any step if you want to abort.
+
+# New in V2:
+- Improved consistency and responsivness
+- Implemented AveYo-Ticker
+- Added Anubis [CT] T-Ramp Insta Smokes
+- Added Inferno Insta Mid/Ramp Smoke via Fancythrow
+- Cleaned up the project
+- Now automatically using the FaceIt-Mode when on Faceit

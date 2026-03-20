@@ -15,7 +15,7 @@ Note the mouse tracking could be used on any menu (buymenu for example). Further
 
 2. Unzip the file
 
-3. Go to you steam library and open CS2's properties:
+3. Go to your steam library and open CS2's properties:
 
 <img width="681" height="527" alt="image" src="https://github.com/user-attachments/assets/cf23f100-fc1d-4492-b6c9-02cd232887bd" />
 

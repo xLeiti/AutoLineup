@@ -27,7 +27,7 @@ Note the mouse tracking could be used on any menu (buymenu for example). Further
 
 <img width="1626" height="417" alt="image" src="https://github.com/user-attachments/assets/4f2de625-a6e4-4a31-950d-f50ce36c03c8" />
 
-6. And Explorer opens at ```steamapps\common\Counter-Strike Global Offensive```. Head to ```steamapps\common\Counter-Strike Global Offensive\game\csgo```
+6. An Explorer opens at ```steamapps\common\Counter-Strike Global Offensive```. Head to ```steamapps\common\Counter-Strike Global Offensive\game\csgo```
 
 7. Paste the ```cfg``` and ```resource``` folder into your ```steamapps\common\Counter-Strike Global Offensive\game\csgo``` directory:
 

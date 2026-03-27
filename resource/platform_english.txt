@@ -10,9 +10,19 @@
 	"Accept_All_Messages"			">	Finished."
 
 
+	"CFG_DUST2_SMOKE_1"                    "[T] \n INSTANT ☁ smoke \n ᶠᵒʳ MID       \n ᶠʳᵒᵐ SPAWN 1 \n (7th tile to B) \n JT  \n  \n  \n  \n "
+	"CFG_DUST2_SMOKE_2"                    "[T] \n INSTANT ☁ smoke \n ᶠᵒʳ MID       \n ᶠʳᵒᵐ SPAWN 2 \n  (6th tile to B) \n WJT  \n  \n  \n  \n "
+	"CFG_DUST2_SMOKE_3"                    "[T] \n INSTANT ☁ smoke \n ᶠᵒʳ MID       \n ᶠʳᵒᵐ SPAWN 3 \n  (4th tile to B) \n WJT  \n  \n  \n  \n "
+	"CFG_DUST2_SMOKE_12"                    "[T] \n INSTANT ☁ smoke \n ᶠᵒʳ MID       \n ᶠʳᵒᵐ SPAWN 12 \n (1st tile to A) \n WJT  \n  \n  \n  \n "
+	"CFG_DUST2_SMOKE_13"                    "[T] \n INSTANT ☁ smoke \n ᶠᵒʳ MID       \n ᶠʳᵒᵐ SPAWN 13 \n (3rd tile to A) \n WJT  \n  \n  \n  \n "
+	"CFG_DUST2_SMOKE_14"                    "[T] \n INSTANT ☁ smoke \n ᶠᵒʳ MID       \n ᶠʳᵒᵐ SPAWN 14 \n (5th tile to A) \n WJT  \n  \n  \n  \n "
+	"CFG_DUST2_SMOKE_15"                    "[T] \n INSTANT ☁ smoke \n ᶠᵒʳ MID       \n ᶠʳᵒᵐ SPAWN 15 \n (6th tile to A) \n WJT  \n  \n  \n  \n "
+	"CFG_DUST2_SMOKE_B"                    "[T] \n INSTANT ☁ smoke \n B ᶠᵒʳ DOORS       \n  \n  \n  \n  \n "
+	"CFG_DUST2_SMOKE_CT_1"                    "[CT] \n FAST ☁ smoke \n ᶠᵒʳ LONG HOUSE       \n ᶠʳᵒᵐ 2nd corner \n JT  \n  \n  \n  \n  \n "
+	"CFG_DUST2_SMOKE_CT_2"                    "[CT] \n FAST ☁ smoke \n ᶠᵒʳ LONG HOUSE       \n ᶠʳᵒᵐ  1st corner \n JT  \n  \n  \n  \n  \n "
+	"CFG_DUST2_SMOKE_CT_3"                    "[CT] \n FAST ☁ smoke \n ᶠᵒʳ UPPER TUNNELS       \n  \n  \n  \n "
 
 	
-
 	"CFG_Mirage_T1"                    "[T] \n INSTANT ☁ smoke \n ᶠᵒʳ WINDOW       \n ᶠʳᵒᵐ SPAWN 1        \n WJT \n  \n  \n  \n  \n "
 	"CFG_Mirage_T2"                    "[T] \n INSTANT ☁ smoke \n ᶠᵒʳ WINDOW       \n ᶠʳᵒᵐ SPAWN 2        \n WJT \n  \n  \n  \n  \n "
 	"CFG_Mirage_T3"                    "[T] \n INSTANT ☁ smoke \n ᶠᵒʳ WINDOW       \n ᶠʳᵒᵐ SPAWN 3        \n WJT \n  \n  \n  \n  \n "
@@ -43,6 +53,32 @@
 	"CFG_Anubis_CT2"                    "[CT] \n INSTANT ☁ smoke \n ᶠᵒʳ STAIRS       \n ᶠʳᵒᵐ SPAWN 2        \n JT \n  \n  \n  \n  \n "
 	"CFG_Anubis_CT3"                    "[CT] \n INSTANT ☁ smoke \n ᶠᵒʳ STAIRS       \n ᶠʳᵒᵐ SPAWN 3        \n JT \n  \n  \n  \n  \n "
 	"CFG_Anubis_CT4"                    "[CT] \n INSTANT ☁ smoke \n ᶠᵒʳ STAIRS       \n ᶠʳᵒᵐ SPAWN 4        \n WJT \n  \n  \n  \n  \n "
+
+	"CFG_Ancient_CT1_Elbow"                    "[CT] \n INSTANT ☁ smoke \n ᶠᵒʳ MID ELBOW       \n ▼ 🅱️ DOORS ▼ \n ᶠʳᵒᵐ SPAWN 1        \n FJT \n  \n  \n  \n "
+	"CFG_Ancient_CT2_Elbow"                    "[CT] \n INSTANT ☁ smoke \n ᶠᵒʳ MID ELBOW       \n ▼ 🅱️ DOORS ▼ \n ᶠʳᵒᵐ SPAWN 2        \n FJT \n  \n  \n  \n "
+	"CFG_Ancient_CT3_Elbow"                    "[CT] \n INSTANT ☁ smoke \n ᶠᵒʳ MID ELBOW       \n ▼ 🅱️ DOORS ▼ \n ᶠʳᵒᵐ SPAWN 3        \n FJT \n  \n  \n  \n "
+	"CFG_Ancient_CT4_Elbow"                    "[CT] \n INSTANT ☁ smoke \n ᶠᵒʳ MID ELBOW       \n ▼ 🅱️ DOORS ▼ \n ᶠʳᵒᵐ SPAWN 4        \n FJT \n  \n  \n  \n "
+	"CFG_Ancient_CT5_Elbow"                    "[CT] \n INSTANT ☁ smoke \n ᶠᵒʳ MID ELBOW       \n ▼ 🅱️ DOORS ▼ \n ᶠʳᵒᵐ SPAWN 5        \n FJT \n  \n  \n  \n "
+	
+	"CFG_Ancient_CT1_B-Door"                    "[CT] \n INSTANT ☁ smoke \n ᶠᵒʳ 🅱️ DOORS       \n ▲ MID ELBOW ▲ \n ᶠʳᵒᵐ SPAWN 1        \n FJT \n  \n  \n  \n "
+	"CFG_Ancient_CT2_B-Door"                    "[CT] \n INSTANT ☁ smoke \n ᶠᵒʳ 🅱️ DOORS       \n ▲ MID ELBOW ▲ \n ᶠʳᵒᵐ SPAWN 2        \n FJT \n  \n  \n  \n "
+	"CFG_Ancient_CT3_B-Door"                    "[CT] \n INSTANT ☁ smoke \n ᶠᵒʳ 🅱️ DOORS       \n ▲ MID ELBOW ▲ \n ᶠʳᵒᵐ SPAWN 3        \n FJT \n  \n  \n  \n "
+	"CFG_Ancient_CT4_B-Door"                    "[CT] \n INSTANT ☁ smoke \n ᶠᵒʳ 🅱️ DOORS       \n ▲ MID ELBOW ▲ \n ᶠʳᵒᵐ SPAWN 4        \n FJT \n  \n  \n  \n "
+	"CFG_Ancient_CT5_B-Door"                    "[CT] \n INSTANT ☁ smoke \n ᶠᵒʳ 🅱️ DOORS       \n ▲ MID ELBOW ▲ \n ᶠʳᵒᵐ SPAWN 5        \n FJT \n  \n  \n  \n "
+
+	
+	"CFG_Ancient_T1_Mid"                    "[T] \n INSTANT ☁ smoke \n ᶠᵒʳ MID       \n ▲ DONUT ▲ ˢᶜʳᵒˡˡ ▼ EXT ▼ \n ᶠʳᵒᵐ SPAWN 1        \n WJT \n  \n  \n  \n "
+	"CFG_Ancient_T4_Mid"                    "[T] \n INSTANT ☁ smoke \n ᶠᵒʳ MID       \n ▲ DONUT ▲ ˢᶜʳᵒˡˡ ▼ EXT ▼ \n ᶠʳᵒᵐ SPAWN 4        \n WJT \n  \n  \n  \n "
+	"CFG_Ancient_T5_Mid"                    "[T] \n INSTANT ☁ smoke \n ᶠᵒʳ MID       \n ▲ DONUT ▲ ˢᶜʳᵒˡˡ ▼ EXT ▼ \n ᶠʳᵒᵐ SPAWN 5        \n WJT \n  \n  \n  \n "
+
+	"CFG_Ancient_T1_Ext"                    "[T] \n INSTANT COMBO ☁☁  \n ᶠᵒʳ EXTINGUISH→mid       \n ▲ MID SMOKE ▲ \n ᶠʳᵒᵐ SPAWN 1        \n JT \n  \n  \n  \n "
+	"CFG_Ancient_T4_Ext"                    "[T] \n INSTANT COMBO ☁☁  \n ᶠᵒʳ EXTINGUISH→mid       \n ▲ MID SMOKE ▲ \n ᶠʳᵒᵐ SPAWN 4        \n JT \n  \n  \n  \n "
+	"CFG_Ancient_T5_Ext"                    "[T] \n INSTANT COMBO ☁☁  \n ᶠᵒʳ EXTINGUISH→mid       \n ▲ MID SMOKE ▲ \n ᶠʳᵒᵐ SPAWN 5        \n JT \n  \n  \n  \n "
+
+	"CFG_Ancient_T1_Donut"                   "[T] \n INSTANT COMBO ☁☁ \n ᶠᵒʳ DONUT→mid       \n ▼ MID SMOKE ▼ \n ᶠʳᵒᵐ SPAWN 1        \n JT \n  \n  \n  \n "
+	"CFG_Ancient_T4_Donut"                   "[T] \n INSTANT COMBO ☁☁ \n ᶠᵒʳ DONUT→mid       \n ▼ MID SMOKE ▼ \n ᶠʳᵒᵐ SPAWN 4        \n JT \n  \n  \n  \n "
+	"CFG_Ancient_T5_Donut"                   "[T] \n INSTANT COMBO ☁☁ \n ᶠᵒʳ DONUT→mid       \n ▼ MID SMOKE ▼ \n ᶠʳᵒᵐ SPAWN 5        \n JT \n  \n  \n  \n "
+	
 
 	"CFG_Map_Selection"             "▶️ AutoLineup ◀️ \n \n MAP SELECTION \n   \n  \n  \n  \n  \n  \n "
 	"CFG_Premier_Mode"             	"▶️ AutoLineup ◀️ \n PREMIER MODE \n  \n Toggle to \n FACEIT MODE \n ⚠ THIS WILL LAG ⚠ \n  \n  \n  \n "

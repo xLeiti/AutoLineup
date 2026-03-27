@@ -13,6 +13,7 @@ alias playSelectionSound;
 alias playThrowSound; 
 alias playFthCompletedSound;
 alias enableFaceitNoLag;
+alias #mousewheel;
 
 /// Initializing AutoLineup
 exec "autolineup/main.cfg"

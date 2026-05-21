@@ -19,7 +19,7 @@ Note the mouse tracking could be used on any menu (buymenu for example). Further
 
 <img width="681" height="527" alt="image" src="https://github.com/user-attachments/assets/cf23f100-fc1d-4492-b6c9-02cd232887bd" />
 
-4. Add following snipet to your launch options ```-testscript "../../csgo/cfg/autolineup/init.aveyo"```.
+4. Add following snipet to your launch options ```-testscript_inline "../../csgo/cfg/autolineup/init.aveyo"```.
 
 <img width="1204" height="557" alt="image" src="https://github.com/user-attachments/assets/38bafcf9-7039-46fa-b2c2-66ec959beb99" />
 
